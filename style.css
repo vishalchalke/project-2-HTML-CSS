@@ -1,0 +1,202 @@
+.nav-bar{
+	  
+		      
+		     height: 10vh;
+			 width: 100vw;
+			  display: flex;
+					text-align: center;
+					padding-top: 25px;
+					flex-direction: start;
+					justify-content: space-evenly;
+					flex-wrap: 10px;
+				   
+				height: 50px;
+		         border: black;  
+				 background-color: black; 
+				 text-align: center;
+				 color:white ; font-size: larger;
+				 font-family: Arial, Helvetica, sans-serif;
+				 
+}
+.nav{
+   position:sticky;
+   top: 0px;
+}
+#first-nav{
+height: 36px; margin-bottom: 0px; color: white;text-align: center;padding-top: 10px; 
+font-size: bold;font-weight: 19px; background-color:rgba(140, 105, 59, 0.96);
+font-family: Arial, Helvetica, sans-serif; font-weight:bolder;
+}
+#secount-bar{
+	 height: 20px;width: 10px; display: inline-block;
+	color: aliceblue;
+}
+.third-nav{
+	     border: 5px solid black;
+         height:500px;
+		 background-image: url(img/front.jpg);
+		 /* color:rgba(250, 194, 71, 0.95); text-align: center; */
+		 font-size: 500px;  
+		
+}   
+#fourth-nav{
+	width: 500px; color: blue;
+	font-size: 20px;
+	/* position: relative;
+	padding-top: 900px; */
+	
+	
+}
+#front{
+	height: 400px;
+	width: 1340px;
+    background-color: black;
+	font-size: 70px;
+	color: white;
+	padding-bottom: 100px;
+	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	font-weight:800;
+	
+
+}
+#ff{
+	font-size: 19px;
+margin-left: 18px;
+}
+#fs{
+	font-size: 13px;
+    margin-left:10px ;
+	font-size: 17px;
+	
+}
+
+#pp{
+ margin-left: 30px;
+ padding-top: 30px;
+}
+#button{
+	height: px;
+	font-weight: 600;
+	
+	border-radius: 30px;
+	margin-left: 59px;
+}
+#Sneaker{
+	width: 1340px;
+	height: 30px;
+	color: aliceblue;
+	font-style: bolder;
+	font-weight:bolder;
+	text-align: center;
+	font-size: 20px;
+	background-color:rgba(207, 80, 34, 0.912);
+}
+#new{
+	height: 100px;
+	width: 1240px;
+	
+	background-color: rgba(232, 200, 20, 0.7);
+	text-align: center;
+	padding-top: 7px;
+	font-size: x-large;
+	font-weight: 900;
+}
+#trend{
+
+	margin-left: 30px;
+	display: flex;
+	flex-flow: row;
+	justify-content: space-evenly;
+}
+#Sneaker2{
+	display: flex;
+	flex-flow: row;
+	justify-content: space-evenly;
+	margin-bottom: 20px;
+	
+
+}
+#Sneaker3{
+	display: flex;
+	flex-flow: row;
+	justify-content: space-evenly;
+	margin-bottom: 20px;
+
+}
+#Sneaker4{
+	display: flex;
+	flex-flow: row;
+	justify-content: space-evenly;
+	margin-bottom: 20px;
+
+}
+#Sneaker1{
+	display: flex;
+	color:black;
+	font-weight: bolder;
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	flex-flow: row;
+	justify-content: space-evenly;
+	margin-bottom: 20px;
+	font-size: medium;
+	font-weight: lighter;
+
+}
+#fontP{
+	font-size: medium;
+	font-weight: lighter;
+}
+button{
+	background-color: black;
+	color: aliceblue;
+	font-weight: bolder;
+}
+pre{
+	font-weight: bolder;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#btn{
+	background-color: white;
+	color: black;
+}
+header
+{
+	width: 100vw;
+}
+span{
+	width: 100%;
+}
+#logo{
+	position: absolute;
+    margin-bottom: 600px; 
+	padding-bottom: 300px;
+}
+footer{
+	margin-top: 20px;
+	background-color: black;
+	background-color: black;
+      color: white;
+	  
+}
+th{
+	background-color:rgb(15, 13, 13);
+	color: whitesmoke;
+	font-size: 20px;
+	font-variant: normal;
+	font-weight: bolder;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+tr{
+	font-size: 15px;
+}
+#last1{
+	width: 100vw;
+	height: 40px;
+	background-color: blueviolet;
+	border-radius: 10px;
+	color: azure;
+	display:flex;
+	flex-direction: row;
+	justify-content: space-evenly;
+	color: bisque;
+}
